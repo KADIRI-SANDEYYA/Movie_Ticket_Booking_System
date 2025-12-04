@@ -62,7 +62,7 @@ This project replaces manual processes with a **structured, automated database s
 ---
 
 ## 🗂️ ER Diagram
-![ER Diagram]([https://github.com/USERNAME/REPO_NAME/blob/main/er_diagram.png](https://github.com/KADIRI-SANDEYYA/Movie_Ticket_Booking_System/blob/main/ER_Diagram.jpg))
+![ER Diagram](https://github.com/KADIRI-SANDEYYA/Movie_Ticket_Booking_System/blob/main/ER_Diagram.jpg)
 *Entity-Relationship diagram showing relationships between Movies, Theatres, Screens, Shows, Customers, Bookings, Seats, and Payments.*
 
 ---
