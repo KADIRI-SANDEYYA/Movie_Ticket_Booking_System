@@ -86,30 +86,3 @@ create table payments (
     payment_date datetime default current_timestamp,
     foreign key (booking_id) references bookings(booking_id)
 )auto_increment=5001;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
